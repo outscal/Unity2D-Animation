@@ -44,9 +44,12 @@
 
 - Now, Go to the folder in which you have all the clips of the gameObject for animation. Select all the clips and drag and drop them in the animation window.
 - See the video for what happens next.
+
     
-    [2022-02-02 21-13-17.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e5b33396-61b4-4881-9248-400867af4f5b/2022-02-02_21-13-17.mp4)
-    
+
+
+https://user-images.githubusercontent.com/59511246/152655976-3a289ba9-73aa-4dc9-b3f0-d4e6adef9ca4.mp4
+
 
 - Yes, you are right, you’re animation is created for that particular gameObject.
 - Create one more animation for the game object and we can go to the next part which is **Animator Window**.
