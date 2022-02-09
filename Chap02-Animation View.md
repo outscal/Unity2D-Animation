@@ -1,4 +1,4 @@
-## 2. Animation View
+## Animation View
 
 - This is the place where you can manipulate and edit the animations for your game objects.
 - To open the Animation view
