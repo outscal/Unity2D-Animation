@@ -1,4 +1,4 @@
-# Chap01-Unity Animations
+# Unity Animations
 
 ## 1. Introduction
 
