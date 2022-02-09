@@ -1,4 +1,4 @@
-## 3. Animator Window
+## Animator Window
 
 - Now, comes the animator window. An **Animator Controller** allows you to arrange and maintain a set of animations for a character or other animated Game Object.
 - To open the animator window, go to **Window > Animation > Animator**.
