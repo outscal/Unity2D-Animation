@@ -17,9 +17,9 @@ When you open the window, you can see all the colored rectangle boxes which are 
 
 Any state and Entry state comes by default in Unity. The meaning of these two is there in its name only - Any and Entry.
 
-    Any State- You can go to any state of game object animation regardless of which state the game object is currently in.
-    
-    Entry State- Whenever the game starts and the game object first comes into the scene, it presents itself in the entry state. The Entry state then transitions to the first state of the game object. The first animation that you would create will always be linked to the Entry State.
+- Any State- You can go to any state of game object animation regardless of which state the game object is currently in.
+
+- Entry State- Whenever the game starts and the game object first comes into the scene, it presents itself in the entry state. The Entry state then transitions to the first state of the game object. The first animation that you would create will always be linked to the Entry State.
 
 As you have created another animation, so now we can learn about the transition from one state to another state.
 
