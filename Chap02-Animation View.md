@@ -50,8 +50,10 @@ See the video for what happens next.
 
 ![animation window](./Image/animation_window.gif)
 
-Yes, you are right, you’re animation is created for that particular gameObject.
+Yes, you are right, you’re animation is created for that particular gameObject.🔥
 
 Create one more animation for the game object and we can go to the next part which is **Animator Window**.
+
+![smile](https://media.giphy.com/media/3o7TKrVMbfHqAQS1wI/giphy.gif)
 
 ---
