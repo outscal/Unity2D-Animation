@@ -1,5 +1,9 @@
 ## Animator Window
 
+Buckle Up!! This gonna be one of the most interesting that you'll learn in this course and the final one. 
+
+![Cheer Yourself](https://media.giphy.com/media/OcZp0maz6ALok/giphy.gif)
+
 Now, comes the animator window. An **Animator Controller** allows you to arrange and maintain a set of animations for a character or other animated Game Object.
 
 To open the animator window, go to **Window > Animation > Animator**.
