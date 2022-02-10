@@ -93,5 +93,16 @@ Now play it and change the speed values in Parameters.
 ![Animator Window](./Image/animator_view.gif)
 
 
+## Wrapping Up
+   
+We covered a lot in this one. Feel free to take a breather over here.
+
+Maybe share your progress with the world via LinkedIn & Twitter?
+
+Once you're done posting fill this [form](https://airtable.com/shrXGSkgf5NClpoIU) so that we can also track your progress and give you cool stuff for getting this far!
+
+
+![Joy!!](https://media.giphy.com/media/kfRlTZDvhLCPvOEey8/giphy.gif)
+
 
 ---
