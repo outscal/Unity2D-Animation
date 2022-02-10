@@ -90,8 +90,7 @@ Now play it and change the speed values in Parameters.
 
 
 
-https://user-images.githubusercontent.com/59511246/152656354-3ae1fae4-8051-4428-9ff2-4b834f810b50.mp4
-
+![Animator Window](./Image/animator_view.gif)
 
 
 
