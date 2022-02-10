@@ -2,8 +2,6 @@
 
 ## Introduction
 
-Hey Wassupp??? 
-
 First of all, congrats for completing all the previous courses. You've come a long way. Yayyyy!!!🤘
 
 ![Pat on Yourself](https://media.giphy.com/media/5bgXQi09KD8S7CGKBy/giphy.gif)
@@ -12,7 +10,7 @@ If you’ve ever played a computer game then you must have noticed how the chara
 
 ![Animation for Reference](https://media.giphy.com/media/3rgXBJLFo9QhVbeHwQ/giphy.gif)
 
-How to import such Assets in Unity?
+**How to import such Assets in Unity?**
     
 Just drag the asset from the folder you’ve stored it in and drop it in the Project Panel in Unity. We will see an example here-
     
@@ -20,9 +18,9 @@ Just drag the asset from the folder you’ve stored it in and drop it in the Pro
 ![Drag and Drop](./Image/drag_drop.png)
 
     
-    <p align="center">
-        <img src="./Image/folder.png">
-    </p>
+
+![Folders](./Image/folder.png)
+
     
 
 After importing, Animation Clips are organized into a structured system called an [Animator Controller](https://docs.unity3d.com/Manual/class-AnimatorController.html). The Animator Controller acts as a “[State Machine](https://docs.unity3d.com/Manual/AnimationStateMachines.html)” which keeps track of which clip should currently be playing, and when the animations should change or blend together.
