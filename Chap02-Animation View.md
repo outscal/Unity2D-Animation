@@ -48,8 +48,7 @@ See the video for what happens next.
     
 
 
-https://user-images.githubusercontent.com/59511246/152655976-3a289ba9-73aa-4dc9-b3f0-d4e6adef9ca4.mp4
-
+![animation window](./Image/animation_window.gif)
 
 Yes, you are right, you’re animation is created for that particular gameObject.
 
