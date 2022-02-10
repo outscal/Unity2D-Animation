@@ -23,7 +23,7 @@ Just drag the asset from the folder you’ve stored it in and drop it in the Pro
 
     
 
-After importing, Animation Clips are organized into a structured system called an [Animator Controller](https://docs.unity3d.com/Manual/class-AnimatorController.html). The Animator Controller acts as a “[State Machine](https://docs.unity3d.com/Manual/AnimationStateMachines.html)” which keeps track of which clip should currently be playing, and when the animations should change or blend together.
+After importing, Animation Clips are organized into a structured system called an [Animator Controller]. The Animator Controller acts as a “[State Machine](https://docs.unity3d.com/Manual/AnimationStateMachines.html)” which keeps track of which clip should currently be playing, and when the animations should change or blend together.
 
 *We will look into how to make animations in much detail from the next section. 👉*
 
