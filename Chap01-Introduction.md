@@ -27,4 +27,5 @@ After importing, Animation Clips are organized into a structured system called a
 
 *We will look into how to make animations in much detail from the next section.*
 
+HEADS UP 👇
 ---
