@@ -2,7 +2,7 @@
 
 ## Introduction
 
-First of all, congrats for completing all the previous courses. You've come a long way. Yayyyy!!!🤘
+First of all, congrats on completing all the previous courses. You've come a long way. Yayyyy!!!🤘
 
 ![Pat on Yourself](https://media.giphy.com/media/5bgXQi09KD8S7CGKBy/giphy.gif)
 
