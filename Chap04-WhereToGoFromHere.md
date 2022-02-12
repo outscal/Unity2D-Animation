@@ -6,7 +6,4 @@ Yeahhhhhhhhh!! You made it! 🔥Congrats on completing Unity Animations.
 
 Make a lot of noise, let the world know that you have taken your first steps in the industry. Maybe have a music party with your clan members on [Discord](https://discord.com/invite/R4hfXhsWjN)?
 
-Ohh I almost forgot, you just earned **10 Learning points**. Keep going to earn rewards. Do the following to secure them.
-Tag us @Outscal on LinkedIn and Twitter and fill the form [here](https://airtable.com/shrXGSkgf5NClpoIU) to let us know you're worthy.
-
 ![Thumbs up!](https://media.giphy.com/media/3iAdf4po4DmCwItLgO/giphy.gif)
