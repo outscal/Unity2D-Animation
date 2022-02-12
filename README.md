@@ -35,7 +35,5 @@ As you learn and upskill yourself, you can earn learning points. These points ca
 
 
 
-All clear? Let's Get Started
-
 *We will look into how to make animations in much detail from the next section. 👉*
 
