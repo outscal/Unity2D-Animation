@@ -33,17 +33,15 @@ Just drag the asset from the folder you’ve stored it in and drop it in the Pro
 
 After importing, Animation Clips are organized into a structured system called an [Animator Controller]. The Animator Controller acts as a “[State Machine](https://docs.unity3d.com/Manual/AnimationStateMachines.html)” which keeps track of which clip should currently be playing, and when the animations should change or blend together.
 
-## Earn Learning points to get more rewards 🎁
+## Enroll yourself and get rewarded when you complete the course 🎁
 
-As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Free stuff to learn stuff, crazy right?
+As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Enroll yourself for the course by filling the form linked to the gif below and start earning yoour points
 
 **Click on the gif below and follow the instructions** ⏬
 
-[![Click me!](https://media.giphy.com/media/zz1v8vjwQwTja/giphy.gif)](https://academy.outscal.com/welcome/build-in-public/assignments)
+[![Click me!](https://media.giphy.com/media/iKBAAfYNDu1dowhnEj/giphy.gif)](https://airtable.com/shrY0mnlrnJXaZjps)
 
-You can also click here - [Click Here!](https://academy.outscal.com/welcome/build-in-public/assignments)
-
-
+You can also click here - [Click Here!](https://airtable.com/shrY0mnlrnJXaZjps)
 
 *We will look into how to make animations in much detail from the next section. 👉*
 
