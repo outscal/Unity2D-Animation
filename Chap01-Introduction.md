@@ -33,6 +33,8 @@ Just drag the asset from the folder you’ve stored it in and drop it in the Pro
 
 After importing, Animation Clips are organized into a structured system called an [Animator Controller]. The Animator Controller acts as a “[State Machine](https://docs.unity3d.com/Manual/AnimationStateMachines.html)” which keeps track of which clip should currently be playing, and when the animations should change or blend together.
 
+If you need any help check the [Github Repo](https://github.com/outscal/Unity-Animation)
+
 ## Enroll yourself and get rewarded when you complete the course 🎁
 
 As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Enroll yourself for the course by filling the form linked to the gif below and start earning your points
