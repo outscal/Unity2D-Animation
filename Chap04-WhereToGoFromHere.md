@@ -6,6 +6,9 @@ Yeahhhhhhhhh!! You made it! 🔥Congrats on completing Unity Animations.
 
 Make a lot of noise, let the world know that you have taken your first steps in the industry. Maybe have a music party with your clan members on [Discord](https://discord.com/invite/R4hfXhsWjN)?
 
+Wait, are you stucckkkk?
+Check this [github repository](https://github.com/outscal/Unity-Animation/tree/SolutionStatement) for the solutions of this project.
+
 ## Earn Learning points to get more rewards 🎁
 
 As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Free stuff to learn stuff, crazy right?
