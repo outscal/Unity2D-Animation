@@ -10,6 +10,8 @@ If you’ve ever played a computer game then you must have noticed how the chara
 
 ![Animation for Reference](https://media.giphy.com/media/l2JhL0Gpfbvs4Y07K/giphy.gif)
 
+Before going through the course, we would like you to clone the [Github Repository](https://github.com/outscal/Unity-Animation) for the assets used in this project.
+
 **What are sprite sheets?**
 
 Every 2D graphical object in the game scene is a sprite. It can be anything, a player sprite, an enemy sprite, landscape sprite, and many more. In simple words, sprites are nothing but images in 2D games. Also, in animations, for each player's movement, there are multiple sprites attached to it. 
@@ -32,8 +34,6 @@ Just drag the asset from the folder you’ve stored it in and drop it in the Pro
     
 
 After importing, Animation Clips are organized into a structured system called an [Animator Controller]. The Animator Controller acts as a “[State Machine](https://docs.unity3d.com/Manual/AnimationStateMachines.html)” which keeps track of which clip should currently be playing, and when the animations should change or blend together.
-
-If you need any help check the [Github Repo](https://github.com/outscal/Unity-Animation)
 
 ## Enroll yourself and get rewarded when you complete the course 🎁
 
