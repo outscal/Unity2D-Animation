@@ -10,7 +10,7 @@ If you’ve ever played a computer game then you must have noticed how the chara
 
 ![Animation for Reference](https://media.giphy.com/media/l2JhL0Gpfbvs4Y07K/giphy.gif)
 
-Before going through the course, we would like you to clone the [Github Repository](https://github.com/outscal/Unity-Animation) for the assets used in this project.
+### Before going through the course, we would like you to clone the [Github Repository](https://github.com/outscal/Unity-Animation) for the assets used in this project.
 
 **What are sprite sheets?**
 
