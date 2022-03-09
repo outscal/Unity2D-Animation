@@ -19,6 +19,16 @@ As you learn and upskill yourself, you can earn learning points. These points ca
 
 You can also click here - [Click Here!](https://academy.outscal.com/welcome/build-in-public/assignments)
 
+## What's next
+
+Try to come up with more use cases of applying these playerprefs in game and actually implement them in your own games.
+
+With our character animating, you can start learning the basics on how physics work in Unity and eventually use them to implement player movement - [Unity Physics](https://academy.outscal.com/unity-physics/).
+
+Whether you have something interesting to showcase or just a hi, feel free to join us in Discord where you can also hangout with like-minded people. [Discord](https://discord.com/invite/R4hfXhsWjN)
+
 I'll see you around!
 
-![Thumbs up!](https://media.giphy.com/media/3iAdf4po4DmCwItLgO/giphy.gif)
+![See you!](https://media.giphy.com/media/hcmywq5FGfoCA/giphy.gif)
+
+
